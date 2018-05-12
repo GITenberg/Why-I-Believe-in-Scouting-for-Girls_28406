@@ -1,0 +1,29 @@
+_repo: Why-I-Believe-in-Scouting-for-Girls_28406
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28406-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Rinehart is often called the American Agatha Christie. She is considered
+  the source of the phrase ""The butler did it, "" and also considered to have invented
+  the ""Had-I-But-Known"" school of mystery writing.
+gutenberg_issued: '2009-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Girl Scouts'
+title: Why I Believe in Scouting for Girls
+url: http://www.gutenberg.org/ebooks/28406
